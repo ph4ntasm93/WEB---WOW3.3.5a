@@ -78,6 +78,8 @@ Some things about the project:
 
  • To send GM commands via web: enable SOAP.Enabled in worldserver.conf.
  
+ • This requires a gm account which can be set up in core/armory/armory.php
+
 📎Other
 
  • The web admin panel is accessible if in the server_site database, in the users table, the security_key = 1.
